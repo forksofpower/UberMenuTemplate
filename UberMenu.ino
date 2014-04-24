@@ -36,9 +36,9 @@ void setup() {
   lcd.begin(16, 2);
   lcd.setCursor(0,0);                    
   
-  lcd.print("UberMenu v0.1");            
+  lcd.print("UberMenu v0.5");            
   lcd.setCursor(0,1);                    
-  lcd.print("Press any button...");      
+  lcd.print("Press any button");      
 }
 
 void loop() {
